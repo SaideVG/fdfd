@@ -1,0 +1,77 @@
+[
+    {
+        "emisor": "ana@example.com",
+        "receptor": "luis@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "luis@example.com",
+        "receptor": "carlos@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "sofia@example.com",
+        "receptor": "jorge@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "jorge@example.com",
+        "receptor": "laura@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "pedro@example.com",
+        "receptor": "isabel@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "isabel@example.com",
+        "receptor": "ricardo@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "valeria@example.com",
+        "receptor": "david@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "david@example.com",
+        "receptor": "gabriela@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "daniel@example.com",
+        "receptor": "carmen@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "carmen@example.com",
+        "receptor": "julian@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "julian@example.com",
+        "receptor": "ana@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "luis@example.com",
+        "receptor": "sofia@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "carlos@example.com",
+        "receptor": "jorge@example.com",
+        "estado": "ACEPTADA"
+    },
+    {
+        "emisor": "jorge@example.com",
+        "receptor": "pedro@example.com",
+        "estado": "PENDIENTE"
+    },
+    {
+        "emisor": "isabel@example.com",
+        "receptor": "valeria@example.com",
+        "estado": "ACEPTADA"
+    }
+]

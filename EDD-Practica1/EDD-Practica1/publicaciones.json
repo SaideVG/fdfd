@@ -1,0 +1,20 @@
+[
+    {
+        "correo": "maria.gmz@example.com",
+        "contenido": "¡Hola a todos! Espero que estén teniendo un buen día.",
+        "fecha": "28/08/2024",
+        "hora": "09:30"
+    },
+    {
+        "correo": "juan",
+        "contenido": "Reunión de equipo a las 3 PM. No falten.",
+        "fecha": "28/08/2024",
+        "hora": "14:00"
+    },
+    {
+        "correo": "usuario3@correo.com",
+        "contenido": "Nuevo artículo en el blog sobre tendencias de tecnología.",
+        "fecha": "27/08/2024",
+        "hora": "16:45"
+    }
+]

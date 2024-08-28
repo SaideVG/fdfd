@@ -1,0 +1,107 @@
+[
+    {
+        "nombres": "Ana",
+        "apellidos": "Lopez",
+        "fecha_de_nacimiento": "1995/02/14",
+        "correo": "ana@example.com",
+        "contrasenia": "password123"
+    },
+    {
+        "nombres": "Luis",
+        "apellidos": "Martinez",
+        "fecha_de_nacimiento": "1991/07/22",
+        "correo": "luis@example.com",
+        "contrasenia": "password321"
+    },
+    {
+        "nombres": "Carlos",
+        "apellidos": "Hernandez",
+        "fecha_de_nacimiento": "1988/10/05",
+        "correo": "carlos@example.com",
+        "contrasenia": "password456"
+    },
+    {
+        "nombres": "Sofia",
+        "apellidos": "Gomez",
+        "fecha_de_nacimiento": "1993/11/11",
+        "correo": "sofia@example.com",
+        "contrasenia": "password654"
+    },
+    {
+        "nombres": "Jorge",
+        "apellidos": "Castro",
+        "fecha_de_nacimiento": "1992/04/19",
+        "correo": "jorge@example.com",
+        "contrasenia": "password789"
+    },
+    {
+        "nombres": "Laura",
+        "apellidos": "Vasquez",
+        "fecha_de_nacimiento": "1994/08/30",
+        "correo": "laura@example.com",
+        "contrasenia": "password987"
+    },
+    {
+        "nombres": "Pedro",
+        "apellidos": "García",
+        "fecha_de_nacimiento": "1990/12/16",
+        "correo": "pedro@example.com",
+        "contrasenia": "password1234"
+    },
+    {
+        "nombres": "Isabel",
+        "apellidos": "Fernandez",
+        "fecha_de_nacimiento": "1996/06/05",
+        "correo": "isabel@example.com",
+        "contrasenia": "password4321"
+    },
+    {
+        "nombres": "Ricardo",
+        "apellidos": "Morales",
+        "fecha_de_nacimiento": "1991/03/23",
+        "correo": "ricardo@example.com",
+        "contrasenia": "password5678"
+    },
+    {
+        "nombres": "Valeria",
+        "apellidos": "Pérez",
+        "fecha_de_nacimiento": "1992/09/15",
+        "correo": "valeria@example.com",
+        "contrasenia": "password8765"
+    },
+    {
+        "nombres": "David",
+        "apellidos": "Ramirez",
+        "fecha_de_nacimiento": "1994/01/12",
+        "correo": "david@example.com",
+        "contrasenia": "password1357"
+    },
+    {
+        "nombres": "Gabriela",
+        "apellidos": "Mendoza",
+        "fecha_de_nacimiento": "1993/07/18",
+        "correo": "gabriela@example.com",
+        "contrasenia": "password2468"
+    },
+    {
+        "nombres": "Daniel",
+        "apellidos": "Rojas",
+        "fecha_de_nacimiento": "1989/11/25",
+        "correo": "daniel@example.com",
+        "contrasenia": "password3579"
+    },
+    {
+        "nombres": "Carmen",
+        "apellidos": "Jimenez",
+        "fecha_de_nacimiento": "1990/10/01",
+        "correo": "carmen@example.com",
+        "contrasenia": "password4680"
+    },
+    {
+        "nombres": "Julian",
+        "apellidos": "Serrano",
+        "fecha_de_nacimiento": "1995/03/29",
+        "correo": "julian@example.com",
+        "contrasenia": "password5791"
+    }
+]

@@ -1,0 +1,8 @@
+digraph ListaUsuarios {
+    rankdir=LR;
+    "juan.perz@example.com" [label="Juan\njuan.perz@example.com"];
+    "juan.perz@example.com" -> "persona.x@example.com";
+    "persona.x@example.com" [label="Persona x\npersona.x@example.com"];
+    "persona.x@example.com" -> "persona.y@example.com";
+    "persona.y@example.com" [label="Persona y\npersona.y@example.com"];
+}
